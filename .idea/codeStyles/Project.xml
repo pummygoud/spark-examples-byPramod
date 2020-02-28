@@ -1,0 +1,17 @@
+<component name="ProjectCodeStyleConfiguration">
+  <code_scheme name="Project" version="173">
+    <ScalaCodeStyleSettings>
+      <option name="alwaysUsedImports">
+        <array>
+          <option value="com.typesafe.config.ConfigFactory" />
+          <option value="org.apache.spark.sql.SparkSession" />
+          <option value="org.apache.spark.sql.functions._" />
+          <option value="org.apache.spark.sql.streaming.Trigger" />
+          <option value="org.apache.spark.streaming" />
+          <option value="org.apache.spark.streaming.StreamingContext" />
+          <option value="org.apache.spark.streaming.kafka010.KafkaUtils" />
+        </array>
+      </option>
+    </ScalaCodeStyleSettings>
+  </code_scheme>
+</component>
